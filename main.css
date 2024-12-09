@@ -64,7 +64,6 @@ section h2,
 }
 
 .articles article a {
-    background-color: rgb(0, 119, 255);
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -101,6 +100,23 @@ section h2 {
 #economy {
     background-color: #f8f59f;
 }
+
 #economy .articles article a {
     background-color: #ff9f1a ;
+}
+
+#entertainment {
+    background-color: #B0C4DE;
+}
+
+#entertainment .articles article a {
+    background-color: #1e7dfa 
+}
+
+#tecnology {
+    background-color: #D8BFD8;
+}
+
+#tecnology .articles article a {
+    background-color: #BA55D3;
 }
